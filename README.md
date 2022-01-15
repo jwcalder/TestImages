@@ -1,2 +1,2 @@
 # TestImages
-Test images for graph-based image segmentation.
+Collection of standard test images.
